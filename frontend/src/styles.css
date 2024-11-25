@@ -7,7 +7,4 @@
 /* Base layer (routed components) */
 
 @layer base {
-    h1 {
-        font-size: 2em;
-    }
 }
